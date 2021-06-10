@@ -1,6 +1,6 @@
 ##01-Code Refactor
 
-![Check it!](./Screenshot.png?raw=true "Page Preview")
+![Check it!](./Screenshot.png)
 
 First homework assignment focused on refactoring code.
 Technical challenges include
