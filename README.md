@@ -1,6 +1,6 @@
 ## 01-Code Refactor
 
-![The Horiseon webpage](./Screenshot.png)
+![The Horiseon webpage](Screenshot.png)
 
 First homework assignment focused on refactoring code.
 Technical challenges include
