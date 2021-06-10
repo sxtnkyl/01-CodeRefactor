@@ -1,6 +1,6 @@
 ##01-Code Refactor
 
-![Alt text](/Screenshot.png?raw=true "Page Preview")
+![Check it!](https://raw.github.com/sxtnkyl/01-CodeRefactor/main/Screenshot.png?raw=true "Page Preview")
 
 First homework assignment focused on refactoring code.
 Technical challenges include
